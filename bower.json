@@ -7,7 +7,6 @@
   "main": ["utils.js"],
   "moduleType": [
     "es6",
-    "globals",
     "node"
   ],
   "keywords": [
