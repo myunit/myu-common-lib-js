@@ -4,7 +4,7 @@
     "joneqian <qian.qing@aliyun.com>"
   ],
   "description": "This is Myun common js library",
-  "main": "",
+  "main": ["utils.js"],
   "moduleType": [
     "es6",
     "globals",
