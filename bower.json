@@ -1,0 +1,27 @@
+{
+  "name": "myun-common-lib-js",
+  "authors": [
+    "joneqian <qian.qing@aliyun.com>"
+  ],
+  "description": "This is Myun common js library",
+  "main": "",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "Myun",
+    "js",
+    "common"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
