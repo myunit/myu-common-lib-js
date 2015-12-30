@@ -1,0 +1,23 @@
+{
+  "name": "myun-common-lib-js",
+  "version": "0.0.1",
+  "description": "This is MYun common js library",
+  "main": "utils.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-bower-task": "^0.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@myun.github.com:myunit/myun-common-lib-js.git"
+  },
+  "keywords": [
+    "common",
+    "js"
+  ],
+  "author": "qianqing",
+  "license": "MIT"
+}
